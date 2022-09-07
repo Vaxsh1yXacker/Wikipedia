@@ -7,4 +7,4 @@ $ git clone https://github.com/Vaxsh1yXacker/Wikipedia
 
 $ cd Wikipedia
 
-$ python Wikipedia.py
+$ python Wikipedia
