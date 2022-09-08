@@ -5,4 +5,6 @@ Telegram kanalimiz: @Bu_shunchaki_foydali
 
 $ git clone https://github.com/Vaxsh1yXacker/Wikipedia
 
-$ cd Wikipedia && python google
+$ cd Wikipedia
+
+$ python Wikipedia 
